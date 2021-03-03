@@ -1,0 +1,23 @@
+<resources>
+    <style name="MyEditTextTheme">
+        <item name="colorControlNormal">@color/white</item>
+        <item name="colorControlActivated">@color/white</item>
+        <item name="colorControlHighlight">@color/white</item>
+    </style>
+
+    <style name="BlueAccent">
+        <item name="colorAccent">#0073FF</item> <!-- Whatever color you want-->
+    </style>
+
+    <style name="MyButtonTheme">
+        <item name="colorControlNormal">@color/white</item>
+        <item name="colorControlActivated">@color/white</item>
+        <item name="colorControlHighlight">@color/white</item>
+    </style>
+
+    <style name="ButtonDarkGrey" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@color/master_class_darkgrey</item>
+    </style>
+
+
+</resources>
